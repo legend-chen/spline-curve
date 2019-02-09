@@ -38,7 +38,7 @@
         document.body.insertAdjacentHTML("beforeEnd", "<div style=\"position:absolute;top:0\">" + 
             //clientWidth + " × " + clientHeight + 
             // "<br />devicePixelRatio = " + devicePixelRatio + 
-            "<a href='http://github.com/legend-chen/bspline-curve' style='line-height:12px;font-size:12px'> http://github.com/legend-chen/spline-curve</a>"
+            "<a href='https://legend-chen.github.io/spline-curve/' style='line-height:12px;font-size:12px'> https://legend-chen.github.io/spline-curve/</a>"
             + "</div>");
 
         main();
